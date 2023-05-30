@@ -63,3 +63,15 @@ Sx,y = round(
 ~~~
 
 
+## Questão 6
+![construct_bordas.png](https://github.com/Christhopas/Processamento-de-imagens/blob/main/Imagens%20geradas/construct_bordas.png)
+
+Os kernels Kx e Ky são usados para encontrar as bordas em uma imagem. Kx marca os pixels na horizontal, enquanto Ky faz o mesmo na vertical. Juntos, 
+eles ajudam a detectar os contornos das formas presentes na imagem.
+
+
+
+
+
+
+
