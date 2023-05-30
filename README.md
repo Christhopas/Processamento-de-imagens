@@ -35,9 +35,9 @@ de duas semanas. Por favor, leia com atenção todas as [instruções](https://g
 
 Cálculo:
 ~~~
-80x0 + (-0,07x53)   +   99x0 +
-(-0,45x129)   +   127x1,20   +   (-0,25x148) +
-175x0   +   (-0,12x174)   +   193x0
+80x0 + (-0,07x53) + 99x0 +
+(-0,45x129) + 127x1,20 + (-0,25x148) +
+175x0 + (-0,12x174) + 193x0
 
 Resposta: 32,76
 ~~~
