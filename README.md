@@ -24,7 +24,7 @@ de duas semanas. Por favor, leia com atenção todas as [instruções](https://g
 
 
 ## Questão 1 
-226, 166, 119, 55
+[226, 166, 119, 55]
 
 
 ## Questão 2
